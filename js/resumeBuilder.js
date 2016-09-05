@@ -347,10 +347,6 @@ footer.display();
 
 
 
-//GOOGLE MAP
-
-$("#mapDiv").append(googleMap);
-
 
 
 

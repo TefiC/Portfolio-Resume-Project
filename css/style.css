@@ -468,19 +468,6 @@ MAP section
 	border-radius: 5%;
 }
 
-.map-title {
-	background-color: #ffc38a;
-	width: 100%;
-	border-radius: 25%;
-}
-
-#map {
-	display: block;
-	border-radius: 25%;
-	height: 70%;
-	margin: 0 5%;
-}
-
 /*
 FOOTER section
 */
