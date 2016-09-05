@@ -1,0 +1,49 @@
+/* CLASSES FOR JQUERY EFFECTS
+
+	classes added and removed in hover effects
+*/
+
+/*HEADER*/
+
+	/*Skill div background-color change on hover*/
+.skill-hover-background {
+	background-color: #c73161;
+	box-shadow: 0 6px white;
+}
+
+	/*Contact*/
+.contactType-hover {
+	background-color: #35005a;
+	color: white;
+}
+
+.contactData-hover {
+	background-color: #35005a;
+	color: white;
+}
+
+	/*Buttons hover background-color*/
+.button-hover {
+	background-color: #ff7f24;
+}
+
+
+/*SECTIONS*/
+
+	/*sections titles*/
+.section-title-hover {
+	color: #c73161;
+}
+
+	/*Change entry background on hover*/
+.entry-hover {
+	background-color: white;
+}
+
+	/*Image Hover*/
+.project-image-hover {
+	border-radius: 50%;
+}
+
+
+
