@@ -98,17 +98,23 @@ HEADER
 	background-image: url("http://colourlovers.com.s3.amazonaws.com/images/patterns/2224/2224088.png");
 	background-repeat: repeat;
 	border: 5px outset black;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 .header-main-div {
 	display: flex;
 	flex-wrap: wrap;
+	max-width: 1300px;
+	margin-left: auto;
+	margin-right: auto;
 	background-color: rgba(0,0,0,0.6);
 }
 
 .header-titles-image-main-div {
 	display: flex;
 	flex-wrap: wrap;
+	align-items: center;
 	width: 100%;
 }
 
@@ -152,19 +158,16 @@ HEADER
 	width: 35%;
 	height: 100%;
 	background-color: #c73161;
-	margin-right: 4%;
-	margin-top: 25px;
 	border-radius: 25%;
 	box-shadow: 10px 3px black;
+	display: flex;
+	align-items: center;
 }
 
 .biopic {
 	width: 100%;
 	height: 100%;
 	border-radius: 50%;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 5px;
 }
 
 	/*Header skills*/
@@ -296,6 +299,9 @@ MAIN CONTENT
 
 .main-content-div {
 	width: 100%;
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .submain-content-div {
